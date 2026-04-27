@@ -87,7 +87,27 @@ while(alive){
    build();
 }
 ```
+---
 
+## TERMINAL SESSION
+
+<p align="center">
+
+```bash
+> initializing profile...
+> loading developer: code-silence
+> status: active
+> role: flutter developer in progress
+> mission: build scalable mobile apps
+> focus: flutter | ui | backend basics
+> output: clean code, real projects
+> system: learning mode enabled
+> connection: github active
+```
+
+</p>
+
+---
 ---
 
 <p align="center">
