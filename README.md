@@ -42,7 +42,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-silence&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=code-silence)
 
 ---
 
