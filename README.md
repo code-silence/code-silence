@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" width="800" height="300"/>
+<img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" width="800"/>
 </p>
 <h1 align="center">Hi 👋 I'm Arnob</h1>
 
 <h3 align="center">Flutter Developer in Progress 🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Andriod+App+Developer;Flutter+App+Developer;CSE+Student;Building+Cool+Things+with+Code" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Android+App+Developer;Flutter+App+Developer;CSE+Student;Building+Cool+Things+with+Code" />
 </p>
 
 ---
@@ -29,15 +29,13 @@
 
 ## 📌 Featured Projects
 
-### 💰 Monthly Expense Tracker App
-Track expenses with clean UI and smart budgeting.
+## 🚀 Featured Projects
 
-### 🤖 Roxy AI Chat App
-AI-powered chat application project.
-
-### 🛒 Campus Cart
-Campus-focused shopping/service app.
-
+| Project | Description |
+|---------|-------------|
+| Monthly Expense Tracker | Smart budgeting Flutter app |
+| Roxy AI Chat App | AI assistant chat app |
+| Campus Cart | Campus marketplace platform |
 ---
 
 ## 📊 GitHub Stats
