@@ -43,9 +43,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-silence&layout=compact)
 
 ---
-![Flutter](https://img.shields.io/badge/Flutter-Developer-blue)
-![Open Source](https://img.shields.io/badge/Open%20Source-Lover-success)
-![CSE](https://img.shields.io/badge/CSE-Student-orange)
+![Flutter Lover](https://img.shields.io/badge/Flutter%20Lover-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![App Developer](https://img.shields.io/badge/App%20Developer-1E90FF?style=for-the-badge&logo=android&logoColor=white)
+![Web Developer](https://img.shields.io/badge/Web%20Developer-FF5722?style=for-the-badge&logo=html5&logoColor=white)
 
 ## ⚡ Developer Mode
 
