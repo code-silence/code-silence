@@ -109,6 +109,9 @@ while(alive){
 
 ---
 ---
+<p align="center">
+<img src="https://media1.tenor.com/m/8d-ueVpIfNwAAAAd/demon-slayer.gif" width="800"/>
+</p>
 
 <p align="center">
 Code in silence. Build loudly.
