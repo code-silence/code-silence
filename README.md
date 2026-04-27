@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" width="800"/>
 </p>
-<h1 align="center">Hi 👋 I'm Arnob</h1>
+<h1 align="center">Hi! I'm Arnob!</h1>
 
 <h3 align="center">Flutter Developer in Progress 🚀</h3>
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 - 📱 Passionate about Flutter & Mobile Development  
 - 💻 Love building practical apps  
 - 🌱 Currently learning Flutter and backend concepts  
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,java,git,github,vscode,androidstudio" />
@@ -27,9 +27,8 @@
 
 ---
 
-## 📌 Featured Projects
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -48,7 +47,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 Coming Soon...
 
 ---
