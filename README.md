@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" width="800"/>
 </p>
+![](https://komarev.com/ghpvc/?username=code-silence)
 <h1 align="center">Hi! I'm Arnob!</h1>
 
 <h3 align="center">Flutter Developer in Progress 🚀</h3>
