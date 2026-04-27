@@ -28,30 +28,15 @@
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter" width="50"/><br>
-Flutter
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=dart" width="50"/><br>
-Dart
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>
-C++
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=python" width="50"/><br>
-Python
-
+<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,java,github,vscode" />
 </p>
----
+
+<p align="center">
+Flutter • Dart • C++ • Python • Java • GitHub • VSCode
+</p>
 
 ## 🚀 Current Mission
 - Master Flutter UI/UX  
