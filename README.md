@@ -10,7 +10,6 @@
 </p>
 
 ---
-![](https://komarev.com/ghpvc/?username=code-silence)
 ## About Me
 - 📱 Passionate about Flutter & Mobile Development  
 - 💻 Love building practical apps  
