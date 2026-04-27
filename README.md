@@ -1,7 +1,8 @@
 <p align="center">
-<img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" width="800"/>
+<img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" width="600"/>
 </p>
-<h1 align="center">Hi! I'm Arnob!</h1>
+
+<h1 align="center">Hi! I'm Arnob 👋</h1>
 
 <h3 align="center">Flutter Developer in Progress 🚀</h3>
 
@@ -10,42 +11,60 @@
 </p>
 
 ---
-## About Me
-- 📱 Passionate about Flutter & Mobile Development  
-- 💻 Love building practical apps  
-- 🌱 Currently learning Flutter and backend concepts  
-- ⚡ Goal: Become a professional mobile app developer
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter%20Lover-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/App%20Developer-1E90FF?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Developer-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 
 ---
 
-## Tech Stack
+## 🧠 About Me
+- 📱 Passionate about Flutter & Mobile Development  
+- 💻 Love building practical real-world apps  
+- 🌱 Currently learning Flutter + backend fundamentals  
+- ⚡ Goal: Become a professional mobile app developer  
 
-<p>
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,java,git,github,vscode,androidstudio" />
 </p>
 
 ---
 
+## 🚀 Current Mission
+- Master Flutter UI/UX  
+- Learn State Management (Provider / Bloc)  
+- Build real-world production apps  
+- Improve backend knowledge  
 
-## Featured Projects
+---
+
+## 📌 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| Monthly Expense Tracker | Smart budgeting Flutter app |
-| Roxy AI Chat App | AI assistant chat app |
-| Campus Cart | Campus marketplace platform |
+| 💰 Monthly Expense Tracker | Smart budgeting Flutter app |
+| 🤖 Roxy AI Chat App | AI-powered chat assistant |
+| 🛒 Campus Cart | Campus marketplace platform |
+
 ---
 
 ## 📊 GitHub Stats
 
-![](https://streak-stats.demolab.com?user=code-silence)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=code-silence"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-silence&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-silence&layout=compact"/>
+</p>
 
 ---
-![Flutter Lover](https://img.shields.io/badge/Flutter%20Lover-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![App Developer](https://img.shields.io/badge/App%20Developer-1E90FF?style=for-the-badge&logo=android&logoColor=white)
-![Web Developer](https://img.shields.io/badge/Web%20Developer-FF5722?style=for-the-badge&logo=html5&logoColor=white)
 
 ## ⚡ Developer Mode
 
@@ -56,6 +75,8 @@ while(alive){
    build();
 }
 ```
+
+---
 
 <p align="center">
 "Code in silence. Build loudly."
