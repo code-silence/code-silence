@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Arnob</h1>
 
-<!--
-**code-silence/code-silence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Flutter Developer in Progress 🚀</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Mobile+App+Developer;Flutter+Learner;CSE+Student;Building+Cool+Things+with+Code" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💫 About Me
+- 📱 Passionate about Flutter & Mobile Development  
+- 💻 Love building practical apps  
+- 🌱 Currently learning Flutter and backend concepts  
+- ⚡ Goal: Become a professional mobile app developer
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,java,git,github,vscode,androidstudio" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 💰 Monthly Expense Tracker App
+Track expenses with clean UI and smart budgeting.
+
+### 🤖 Roxy AI Chat App
+AI-powered chat application project.
+
+### 🛒 Campus Cart
+Campus-focused shopping/service app.
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=code-silence&show_icons=true)
+
+![](https://streak-stats.demolab.com?user=code-silence)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-silence&layout=compact)
+
+---
+
+## 🐍 Contribution Snake
+Coming Soon...
+
+---
+
+<p align="center">
+"Code in silence. Build loudly."
+</p>
