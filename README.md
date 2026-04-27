@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media1.tenor.com/m/IUg9D0pZKeoAAAAC/ponke-ponkesol.gif](https://media1.tenor.com/m/D-e9FNdG31gAAAAC/chill-coding.gif" width="800"/>
+<img src="https://media1.tenor.com/m/D-e9FNdG31gAAAAC/chill-coding.gif" width="800"/>
 </p>
 <h1 align="center">Hi 👋 I'm Arnob</h1>
 
