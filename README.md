@@ -42,8 +42,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-silence&layout=compact)
 
-
 ---
+![Flutter](https://img.shields.io/badge/Flutter-Developer-blue)
+![Open Source](https://img.shields.io/badge/Open%20Source-Lover-success)
+![CSE](https://img.shields.io/badge/CSE-Student-orange)
 
 ## ⚡ Developer Mode
 
