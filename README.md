@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" width="600"/>
+<img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" width="800"/>
 </p>
 
 <h1 align="center">Oh Welcome! I am Arnob! </h1>
