@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif" width="800"/>
+</p>
 <h1 align="center">Hi 👋 I'm Arnob</h1>
 
 <h3 align="center">Flutter Developer in Progress 🚀</h3>
