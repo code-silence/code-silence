@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media1.tenor.com/m/TIWBCX23Z9oAAAAC/hatsune-miku-miku.gif" width="800"/>
+<img src="![](https://media1.tenor.com/m/TIWBCX23Z9oAAAAC/hatsune-miku-miku.gif)" width="800"/>
 </p>
 <h1 align="center">Hi 👋 I'm Arnob</h1>
 
