@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi! I'm Arnob 👋</h1>
 
-<h3 align="center">Flutter Developer in Progress 🚀</h3>
+<h3 align="center">Flutter Developer in Progress </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Android+App+Developer;Flutter+App+Developer;CSE+Student;Building+Cool+Things+with+Code" />
@@ -20,18 +20,18 @@
 
 ---
 
-## 🧠 About Me
-- 📱 Passionate about Flutter & Mobile Development  
-- 💻 Love building practical real-world apps  
-- 🌱 Currently learning Flutter + backend fundamentals  
-- ⚡ Goal: Become a professional mobile app developer  
+##  About Me
+-  Passionate about Flutter Mobile Development & Web Development 
+-  Love building practical real-world apps  
+-  Currently learning Flutter + backend fundamentals  
+-  Goal: Become a professional mobile app developer  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,java,git,github,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,java,github,vscode" />
 </p>
 
 ---
