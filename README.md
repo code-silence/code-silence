@@ -39,8 +39,6 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=code-silence&show_icons=true)
-
 ![](https://streak-stats.demolab.com?user=code-silence)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-silence&layout=compact)
