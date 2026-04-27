@@ -46,10 +46,15 @@
 
 ---
 
-## Contribution Snake
-Coming Soon...
+## ⚡ Developer Mode
 
----
+```cpp
+while(alive){
+   code();
+   learn();
+   build();
+}
+```
 
 <p align="center">
 "Code in silence. Build loudly."
