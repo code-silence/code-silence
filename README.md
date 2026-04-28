@@ -4,7 +4,7 @@
 
 <h1 align="center">Oh Welcome! I am Arnob! </h1>
 
-<h3 align="center">Flutter Developer in Progress</h3>
+<h3 align="center">(Flutter Developer in Progress)</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00F5FF&lines=Android+App+Developer;Flutter+App+Developer;CSE+Student;Building+Cool+Things+with+Code" />
