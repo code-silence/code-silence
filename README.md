@@ -48,7 +48,8 @@ Flutter • Dart • C++ • Python • Java • GitHub • VSCode
 - Master Flutter UI and UX  
 - Learn state management (Provider and Bloc)  
 - Build production level applications  
-- Improve backend knowledge  
+- Improve backend knowledge
+- Make projects with friends
 
 <p align="center">━━━━━━━━━━━━ ✦ ✧ ✦ ━━━━━━━━━━━━</p>
 
