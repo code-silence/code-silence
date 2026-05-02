@@ -115,5 +115,5 @@ while(alive){
 </p>
 
 <p align="center">
-Code in silence. Build loudly.
+Code in silence. Build loudly. Lol. 
 </p>
