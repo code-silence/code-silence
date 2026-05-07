@@ -72,7 +72,9 @@ Flutter • Dart • C++ • Python • Java • GitHub • VSCode
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=code-silence&theme=dark"/>
 </p>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=code-silence&show_icons=true&theme=dark"/>
+</p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-silence&layout=compact&theme=dark"/>
 </p>
