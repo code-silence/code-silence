@@ -31,11 +31,11 @@
 ## TECH STACK
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,python,java,git,github,vscode,html,css,js&perline=6" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,cpp,python,git,github,vscode,html,css,js&perline=6" />
 </p>
 
 <p align="center">
-Flutter • Dart • Firebase • C++ • Python • Java • Git • GitHub • VSCode • HTML • CSS • JavaScript
+Flutter • Dart • Firebase • Supabase • C++ • Python • Git • GitHub • VSCode • HTML • CSS • JavaScript
 </p>
 
 ---
