@@ -45,7 +45,6 @@ Flutter • Dart • Firebase • Supabase • C++ • Python • Git • GitHub
 ## CURRENT MISSION
 
 - Master Flutter UI and UX  
-- Learn state management (Provider and Bloc)  
 - Build production level applications  
 - Improve backend knowledge
 - Make projects with friends
