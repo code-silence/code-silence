@@ -60,7 +60,7 @@ Flutter • Dart • Firebase • Supabase • C++ • Python • Git • GitHub
 | Monthly Expense Tracker | Smart budgeting Flutter application |
 | AI Chat App | AI powered chat assistant |
 | Purple Chat | Social Chat app |
-
+| WatchNest | Social watch party app |
 ---
 
 <p align="center">━━━━━━━━━━━━ ✦ ✧ ✦ ━━━━━━━━━━━━</p>
