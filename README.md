@@ -58,8 +58,8 @@ Flutter • Dart • Firebase • Supabase • C++ • Python • Git • GitHub
 | Project | Description |
 |---------|-------------|
 | Monthly Expense Tracker | Smart budgeting Flutter application |
-| Roxy AI Chat App | AI powered chat assistant |
-| Campus Cart | Campus marketplace platform |
+| AI Chat App | AI powered chat assistant |
+| Purple Chat | Social Chat app |
 
 ---
 
