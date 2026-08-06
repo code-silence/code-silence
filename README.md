@@ -44,10 +44,11 @@ Flutter • Dart • Firebase • Supabase • C++ • Python • Git • GitHub
 
 ## CURRENT MISSION
 
-- Master Flutter UI and UX  
+- Master Flutter 
 - Build production level applications  
 - Improve backend knowledge
 - Make projects with friends
+- learn flutter flame to check how good flutter is in 2D game development
 
 <p align="center">━━━━━━━━━━━━ ✦ ✧ ✦ ━━━━━━━━━━━━</p>
 
