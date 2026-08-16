@@ -24,7 +24,8 @@
 - Passionate about Flutter mobile development and web development  
 - Love building real-world applications  
 - Currently learning Flutter and backend fundamentals  
-- Goal is to become a professional mobile app developer  
+- Goal is to become a professional mobile app developer
+- I love flutter
 
 ---
 
@@ -43,12 +44,12 @@ Flutter • Dart • Firebase • Supabase • C++ • Python • Git • GitHub
 <p align="center">━━━━━━━━━━━━ ✦ ✧ ✦ ━━━━━━━━━━━━</p>
 
 ## CURRENT MISSION
-
-- Master Flutter 
+ 
 - Build production level applications  
 - Improve backend knowledge
 - Make projects with friends
 - learn flutter flame to check how good flutter is in 2D game development
+- continue React native learning
 
 <p align="center">━━━━━━━━━━━━ ✦ ✧ ✦ ━━━━━━━━━━━━</p>
 
