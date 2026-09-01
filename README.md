@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/4RYbGa1GttQAAAAd/lofi-browsing.gif" width="800"/>
-</p>
+<img src="https://images.hdqwalls.com/download/lofi-girl-relaxing-morning-time-ce-1366x768.jpg" width="1000"/></p>
 
 <h1 align="center">Hey, I'm Arnob 👋</h1>
 
