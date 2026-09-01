@@ -4,7 +4,7 @@
 <h1 align="center">Uh oh! Welcome! I'm Arnob </h1>
 
 <p align="center">
-  <b>CSE Student • Mobile App Developer • Software Developer</b>
+  <b>Looking for internships • Mobile App Developer • Software Developer</b>
 </p>
 
 <p align="center">
