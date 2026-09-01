@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://images.hdqwalls.com/download/lofi-girl-relaxing-morning-time-ce-1366x768.jpg" width="1000"/></p>
 
-<h1 align="center">Hey, I'm Arnob 👋</h1>
+<h1 align="center">Uh oh! Welcome! I'm Arnob </h1>
 
 <p align="center">
   <b>CSE Student • Flutter Developer • Software Developer</b>
