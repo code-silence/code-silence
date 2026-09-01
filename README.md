@@ -175,5 +175,5 @@ shipping...
 </h3>
 
 <p align="center">
-  <i>Still learning. Still building. Still figuring things out.</i>
+  <i>learning everyday. building everyday. figuring things out everyday.</i>
 </p>
