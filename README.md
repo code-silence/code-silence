@@ -11,15 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00F5FF&lines=Building+Mobile+Apps;Learning+Backend+Development;Exploring+React+Native;Experimenting+with+Flame;Turning+Ideas+into+Projects" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/code-silence">
-    <img src="https://img.shields.io/github/followers/code-silence?style=for-the-badge&logo=github&label=Followers"/>
-  </a>
-  <a href="https://github.com/code-silence?tab=repositories">
-    <img src="https://img.shields.io/github/stars/code-silence?style=for-the-badge&logo=github&label=Stars"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
