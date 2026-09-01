@@ -1,119 +1,179 @@
 <p align="center">
-<img src="https://media1.tenor.com/m/4RYbGa1GttQAAAAd/lofi-browsing.gif" width="800"/>
+  <img src="https://media1.tenor.com/m/4RYbGa1GttQAAAAd/lofi-browsing.gif" width="800"/>
 </p>
 
-<h1 align="center">Oh Welcome! I am Arnob! </h1>
-
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00F5FF&lines=Android+App+Developer;Flutter+App+Developer;CSE+Student;Software+engineer;Building+Cool+Things+with+Code" />
-</p>
-
----
+<h1 align="center">Hey, I'm Arnob 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter%20Lover-00F5FF?style=for-the-badge&logo=flutter&logoColor=black"/>
-  <img src="https://img.shields.io/badge/App%20Developer-FF00FF?style=for-the-badge&logo=android&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Web%20Developer-00FF99?style=for-the-badge&logo=html5&logoColor=black"/>
-</p>
-
----
-
-## ABOUT ME
-
-- Passionate about Flutter mobile development and web development  
-- Love building real-world applications  
-- Currently learning Flutter and backend fundamentals  
-- Goal is to become a professional mobile app developer
-- I love flutter
-
----
-
-## TECH STACK
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,cpp,python,git,github,vscode,html,css,js&perline=6" />
+  <b>CSE Student • Flutter Developer • Software Developer</b>
 </p>
 
 <p align="center">
-Flutter • Dart • Firebase • Supabase • C++ • Python • Git • GitHub • VSCode • HTML • CSS • JavaScript
-</p>
-
----
-
-<p align="center">━━━━━━━━━━━━ ✦ ✧ ✦ ━━━━━━━━━━━━</p>
-
-## CURRENT MISSION
- 
-- Build production level applications  
-- Improve backend knowledge
-- Make projects with friends
-- learn flutter flame to check how good flutter is in 2D game development
-- continue React native learning
-
-<p align="center">━━━━━━━━━━━━ ✦ ✧ ✦ ━━━━━━━━━━━━</p>
-
----
-
-## FEATURED PROJECTS
-
-| Project | Description |
-|---------|-------------|
-| Monthly Expense Tracker | Smart budgeting Flutter application |
-| AI Chat App | AI powered chat assistant |
-| Purple Chat | Social Chat app |
-| WatchNest | Social watch party app |
----
-
-<p align="center">━━━━━━━━━━━━ ✦ ✧ ✦ ━━━━━━━━━━━━</p>
-
-## GITHUB STATS
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=code-silence&theme=dark"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00F5FF&lines=Building+Mobile+Apps;Learning+Backend+Development;Exploring+React+Native;Experimenting+with+Flame;Turning+Ideas+into+Projects" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-silence&theme=github-dark&hide_border=true"/>
+  <a href="https://github.com/code-silence">
+    <img src="https://img.shields.io/github/followers/code-silence?style=for-the-badge&logo=github&label=Followers"/>
+  </a>
+  <a href="https://github.com/code-silence?tab=repositories">
+    <img src="https://img.shields.io/github/stars/code-silence?style=for-the-badge&logo=github&label=Stars"/>
+  </a>
 </p>
 
 ---
 
-## DEVELOPER MODE
+## 👨‍💻 About Me
+
+I'm a **CSE student and self-taught developer** who enjoys turning ideas into real applications.
+
+My main focus is **mobile app development with Flutter**, while I'm also exploring backend technologies and React Native.
+
+* Building real-world Flutter applications
+* Learning backend development
+* Exploring Firebase & Supabase
+* Experimenting with Flutter + Flame for 2D games
+* Currently learning React Native
+* Always trying to build something instead of just watching tutorials
+
+---
+
+## ⚡ What I'm Working On
+
+```text
+📱 Mobile Development
+   └── Flutter • Dart • React Native
+
+🔥 Backend & Services
+   └── Firebase • Supabase
+
+🎮 Game Development
+   └── Flutter • Flame
+
+🌐 Web
+   └── HTML • CSS • JavaScript
+
+🧠 Programming
+   └── C++ • Python
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase,supabase,cpp,python,html,css,js,git,github,vscode&perline=7" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project              | Description                                       | Tech               |
+| -------------------- | ------------------------------------------------- | ------------------ |
+| **Developer Pocket** | Offline developer utility toolkit                 | Flutter • Riverpod |
+| **WatchNest**        | YouTube watch party application                   | Flutter • Firebase |
+| **PurpleChat**       | Real-time social chat application                 | Flutter • Firebase |
+| **Pocket Pilot**     | Personal expense tracking application             | Flutter            |
+| **Roxy**             | AI-powered chat application                       | Flutter • AI API   |
+| **Weather App**      | Weather application with location-based forecasts | Flutter • REST API |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-silence&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-silence&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=code-silence&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-silence&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 💻 Developer Mode
 
 ```cpp
-while(alive){
-   code();
-   learn();
-   build();
+#include <iostream>
+
+int main() {
+
+    while (alive) {
+        learn();
+        code();
+        build();
+        repeat();
+    }
+
+    return 0;
 }
 ```
+
 ---
 
-## TERMINAL SESSION
-
-<p align="center">
+## 🖥️ Terminal Session
 
 ```bash
-> initializing profile...
-> loading developer: code-silence
-> status: active
-> role: flutter developer in progress
-> mission: build scalable mobile apps
-> focus: flutter | ui | backend basics
-> output: clean code, real projects
-> system: learning mode enabled
-> connection: github active
+$ whoami
+
+arnob
+
+$ role
+
+cse-student / developer
+
+$ currently_learning
+
+flutter
+react-native
+backend-development
+flame
+
+$ currently_building
+
+mobile-applications
+
+$ favorite_tools
+
+VS Code
+GitHub
+Firebase
+Supabase
+
+$ status
+
+learning...
+building...
+shipping...
 ```
 
-</p>
+---
+
+## 🎯 Current Goals
+
+* Build production-quality mobile applications
+* Become stronger at backend development
+* Build and publish more complete projects
+* Explore 2D game development with Flame
+* Improve React Native skills
+* Keep learning by building
 
 ---
----
-<p align="center">
-<img src="https://media1.tenor.com/m/8d-ueVpIfNwAAAAd/demon-slayer.gif" width="800"/>
-</p>
 
 <p align="center">
-Code in silence. Build loudly. Lol. 
+  <img src="https://media1.tenor.com/m/8d-ueVpIfNwAAAAd/demon-slayer.gif" width="800"/>
+</p>
+
+<h3 align="center">
+  Code in silence. Build loudly.
+</h3>
+
+<p align="center">
+  <i>Still learning. Still building. Still figuring things out.</i>
 </p>
