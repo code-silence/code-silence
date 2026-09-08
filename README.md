@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **CSE student and self-taught developer** who enjoys turning ideas into real applications.
 
@@ -28,22 +28,22 @@ My main focus is **mobile app development with Flutter**, while I'm also explori
 
 ---
 
-## ⚡ What I'm Working On
+##  What I'm Working On
 
 ```text
-📱 Mobile Development
+ Mobile Development
    └── Flutter • Dart • React Native
 
-🔥 Backend & Services
+ Backend & Services
    └── Firebase • Supabase
 
-🎮 Game Development
+ Game Development
    └── Flutter • Flame
 
-🌐 Web
+ Web
    └── HTML • CSS • JavaScript
 
-🧠 Programming
+ Programming
    └── C++ • Python
 ```
 
@@ -87,7 +87,7 @@ My main focus is **mobile app development with Flutter**, while I'm also explori
 
 ---
 
-## 💻 Developer Mode
+##  Developer Mode
 
 ```cpp
 #include <iostream>
@@ -107,7 +107,7 @@ int main() {
 
 ---
 
-## 🖥️ Terminal Session
+##  Terminal Session
 
 ```bash
 $ whoami
@@ -145,7 +145,7 @@ shipping...
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
 * Build production-quality mobile applications
 * Become stronger at backend development
