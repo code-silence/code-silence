@@ -77,7 +77,7 @@ website automation
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-silence&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=code-silence&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-silence&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
@@ -88,7 +88,6 @@ website automation
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-silence&theme=tokyo-night&hide_border=true"/>
 </p>
-
 ---
 
 ##  Developer Mode
