@@ -15,20 +15,21 @@
 
 ##  About Me
 
-I'm a **CSE student and self-taught developer** who enjoys turning ideas into real applications.
+I'm a **CSE student at Daffodil International University and self-taught developer** who enjoys turning ideas into real applications.
 
-My main focus is **mobile app development with Flutter**, while I'm also exploring backend technologies and React Native.
+My main focus is **mobile app development with Flutter**, while I'm also exploring backend technologies.
 
 * Building real-world Flutter applications
-* Learning backend development
-* Exploring Firebase & Supabase
-* Experimenting with Flutter + Flame for 2D games
+* Practicing backend development
+* Integrating Firebase & Supabase
+* working on Website automation using playwright and pyhton. 
+* Experimenting with Flutter + Flame for 2D games.
 * Currently learning React Native
 * Always trying to build something instead of just watching tutorials
 
 ---
 
-##  What I'm Working On
+##  What I'm Working On quick view
 
 ```text
  Mobile Development
