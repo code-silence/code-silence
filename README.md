@@ -45,6 +45,9 @@ My main focus is **mobile app development with Flutter**, while I'm also explori
 
  Programming
    └── C++ • Python
+
+website automation
+   └── playwright • Python
 ```
 
 ---
