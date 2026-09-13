@@ -18,11 +18,10 @@
 I'm a **CSE student at Daffodil International University, Bangladesh and self-taught developer** who enjoys turning ideas into real applications. My main focus is **mobile app development with Flutter & React Native Expo**, while I'm also exploring backend technologies.
 
 * Building real-world Flutter applications
-* Practicing backend development
+* Focusing on backend development
 * Integrating Firebase & Supabase
 * working on Website automation using playwright and pyhton. 
-* Experimenting with Flutter + Flame for 2D games.
-* Currently learning React Native
+* Experimenting with Flutter + Flame for 2D games(just for fun).
 * Always trying to build something instead of just watching tutorials
 
 ---
@@ -51,7 +50,7 @@ website automation
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase,supabase,cpp,python,html,css,js,git,github,vscode&perline=7" />
@@ -59,20 +58,23 @@ website automation
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project              | Description                                       | Tech               |
 | -------------------- | ------------------------------------------------- | ------------------ |
-| **Developer Pocket** | Offline developer utility toolkit                 | Flutter • Riverpod |
+| **Railway Ticket Automation**      | A Bd railway ticket booking automation system | Python • Playwright |
 | **WatchNest**        | YouTube watch party application                   | Flutter • Firebase |
+| **BlueWear**             | E-commerce website                       | HTML • CSS •JS •Firebase  |
 | **PurpleChat**       | Real-time social chat application                 | Flutter • Firebase |
-| **Pocket Pilot**     | Personal expense tracking application             | Flutter            |
-| **Roxy**             | AI-powered chat application                       | Flutter • AI API   |
+| **Roxy**             | AI-powered chat application                       | Flutter • GEMINI API   |
+| **Pocket Pilot**     | Personal expense tracking application             | Flutter  only          |
 | **Weather App**      | Weather application with location-based forecasts | Flutter • REST API |
+| **Developer Pocket** | Offline developer utility toolkit                 | Flutter • Riverpod |
+
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=code-silence&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
