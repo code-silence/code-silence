@@ -41,8 +41,8 @@ I'm a **CSE student at Daffodil International University, Bangladesh and self-ta
  Web
    └── HTML • CSS • JavaScript
 
- Programming
-   └── C++ • Python
+ Programming languages i am decent in
+   └── C++ • Python • Dart • Java • Kotlin
 
 website automation
    └── playwright • Python
