@@ -15,9 +15,7 @@
 
 ##  About Me
 
-I'm a **CSE student at Daffodil International University and self-taught developer** who enjoys turning ideas into real applications.
-
-My main focus is **mobile app development with Flutter**, while I'm also exploring backend technologies.
+I'm a **CSE student at Daffodil International University, Bangladesh and self-taught developer** who enjoys turning ideas into real applications. My main focus is **mobile app development with Flutter**, while I'm also exploring backend technologies.
 
 * Building real-world Flutter applications
 * Practicing backend development
