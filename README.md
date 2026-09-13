@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00F5FF&lines=Building+Mobile+Apps;Learning+Backend+Development;Exploring+React+Native;Experimenting+with+Flame;Turning+Ideas+into+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00F5FF&lines=Building+Mobile+Apps;Learning+Backend+Development;Exploring+website+Automation;Experimenting+with+Flame;Turning+Ideas+into+Projects" />
 </p>
 
 ---
