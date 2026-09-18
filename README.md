@@ -23,6 +23,7 @@ I'm a **CSE student at Daffodil International University, Bangladesh and self-ta
 * working on Website automation using playwright and pyhton. 
 * Experimenting with Flutter + Flame for 2D games(just for fun).
 * Always trying to build something instead of just watching tutorials
+* I like precise instructions, talk less, output more. 
 
 ---
 
