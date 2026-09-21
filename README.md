@@ -70,6 +70,7 @@ website automation
 | **Roxy**             | AI-powered chat application                       | Flutter • GEMINI API   |
 | **Pocket Pilot**     | Personal expense tracking application             | Flutter  only          |
 | **Weather App**      | Weather application with location-based forecasts | Flutter • REST API |
+| **Cmdly** | a developer command toolkit app for developers                | React • Expo |
 | **Developer Pocket** | Offline developer utility toolkit                 | Flutter • Riverpod |
 
 [Wanna Check My Repositories? Click here](https://github.com/code-silence?tab=repositories)
